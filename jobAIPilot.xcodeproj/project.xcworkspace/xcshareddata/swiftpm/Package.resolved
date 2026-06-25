@@ -1,0 +1,15 @@
+{
+  "originHash" : "b8f00b4960b0c5a1849bb96aa3ce79f5750e73cd691c9545cf92993c2efa4843",
+  "pins" : [
+    {
+      "identity" : "networkkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vinayyadavilli/NetworkKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "384d51d4a510b6a57059e49bf917f82fc390e73a"
+      }
+    }
+  ],
+  "version" : 3
+}
