@@ -14,7 +14,7 @@ struct jobAIPilotApp: App {
     init() {
         // Set up the global network configuration
         NetworkConfiguration.shared.configure(with: .init(
-            baseURL: URL(string: "http://172.16.0.201:8000/api/v1")!,
+            baseURL: URL(string: "http://13.233.129.171/api/v1")!,
             environment: .development
         ))
     }
